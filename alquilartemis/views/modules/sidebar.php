@@ -1,7 +1,7 @@
 <div class="sidebar">
       <!-- Sidebar user (optional) -->
       <div class="user-panel mt-3 pb-3 mb-3">
-        <div class="info d-flex">
+        <div class="info d-flex"> 
           <i class="nav-icon fa-solid fa-user-secret" style="color: white;"></i>
           <a href="#" style="margin-left: 10px; text-decoration: none;">Joel Abril</a>
         </div>
